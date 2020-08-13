@@ -1,0 +1,27 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+flask = "*"
+flask-restplus = "*"
+flask-sqlalchemy = "*"
+python-dateutil = "*"
+darkskylib = "*"
+geopy = "*"
+pyyaml = "*"
+psycopg2 = "*"
+scipy = "*"
+numpy = "*"
+scikit-learn = "*"
+
+[requires]
+python_version = "3.7"
+
+[scripts]
+api = "python app.py"
+generate = "python generate.py"
+reset = "python resetdb.py"

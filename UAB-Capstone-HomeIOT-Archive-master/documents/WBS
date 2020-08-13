@@ -1,0 +1,27 @@
+Task ID	    Task	                                    Assigned To	            Planned Start	Planned End
+1	        Meet customer	                            Team	                08/11/19	    08/12/19
+1.1	        Define Requirements	                        Team	                08/11/19	    08/12/19
+2	        Design Database	                            Senay, Adrian, Farid	08/15/19	    11/02/19
+2.1	        Create weather data file	                Senay	                08/15/19	    09/10/19
+2.2	        Generate random electricity usage	        Senay	                09/10/19	    10/03/19
+2.3	        Generate random water usage	                Senay	                10/03/19	    10/20/19
+2.4	        Create API Routes for obtaining devices		Adrian	                10/14/19		10/18/19
+	        and mutating their state (eg. Light, HVAC)
+2.5	        Create API Routes for obtaining usage data  Adrian	                10/19/19		10/23/19
+2.6         Water and Electricity Calculations			Farid	                9/25/2019       10/20/2019
+2.7         Postgresql connect                          Farid                   9/22/2019       11/02/2019
+2.8         Language Translation                        Farid                   9/22/2019       11/02/2019
+				
+				
+				
+				
+				
+3	        Design Front-End	                        Gentry, Chris, Preston	09/01/19	11/08/19
+3.1	        Create basic stats page template	        Gentry	                09/01/19	10/26/19
+3.2	        Create map documents 	                    Gentry	                10/26/19	11/02/19
+3.3	        Create Template for front-end pages	        Chris	                09/01/19	10/03/19
+3.4	        Create dashboard/switchboard functionality	Chris, Preston	        10/03/19	11/04/19
+3.5	        Style app pages	                            Chris, Preston	        11/04/19	11/12/19
+3.6	        Integrate API with Front-End           		Adrian	                10/23/19	11/15/19
+				
+4	        Showcase app	                            Team	                11/15/19	11/15/19

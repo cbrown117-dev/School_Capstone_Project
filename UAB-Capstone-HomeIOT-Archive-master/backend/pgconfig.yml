@@ -1,0 +1,20 @@
+# PostgreSQL DB Configuration
+# ip: 164.111.161.173
+# Ensure to run ./start_tunnel.sh to start the port forward
+
+# Locally hosted postgres
+ip: 127.0.0.1
+port: 5432
+user: cs499
+password: 4JCV4amp
+database: cs499
+
+# UAB
+# Tried to use this, it works, but it's slow.
+# Alternative DB
+# Must connect through UAB VPN or SSH Tunnel
+# ip: 164.111.161.173
+# port: 5432
+# user: team5
+# password: J123456k
+# database: Team5

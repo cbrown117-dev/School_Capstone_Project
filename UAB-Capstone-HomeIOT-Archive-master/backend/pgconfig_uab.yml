@@ -1,0 +1,9 @@
+# PostgreSQL DB Configuration
+# ip: 164.111.161.173
+# Ensure to run ./start_tunnel.sh to start the port forward
+
+ip: 127.0.0.1
+port: 5432
+user: team5
+password: J123456k
+database: Team5
